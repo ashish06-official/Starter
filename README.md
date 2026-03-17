@@ -1,1 +1,1 @@
-Hello this is a sample fule
+Hello this is a sample file 
