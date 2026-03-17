@@ -1,1 +1,1 @@
-Hello this is a sample file 
+Hello this is a sample repository 
