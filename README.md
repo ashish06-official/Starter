@@ -1,2 +1,1 @@
-# Starter
-print("Hello World !!")
+Hello this is a sample fule
